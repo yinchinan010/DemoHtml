@@ -1,3 +1,3 @@
 # DemoHtml
 
-it's just learning demo for github page
+it's just learning purpose to demo for github page
